@@ -1,2 +1,4 @@
 # MNU_RL_seminar
-MNU RL seminar presentation metrials
+MNU RL seminar presentation materials
+
+Please follow the description files.
